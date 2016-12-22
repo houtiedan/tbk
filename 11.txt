@@ -1,0 +1,2 @@
+git init	//创建仓库
+ssh-keygen -t rsa -C "houtiedan@gmail.com"	//生成kye user/.ssh/xxx
